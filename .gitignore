@@ -1,0 +1,68 @@
+# OSX
+#
+.DS_Store
+coverage/
+.jest-cache
+# Xcode
+#
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+# project.xcworkspace
+
+# Android/IntelliJ
+#
+.idea
+.gradle
+local.properties
+*.iml
+*.cer
+*.mobileprovision
+# development files
+
+#
+node_modules/
+npm-debug.log
+
+# BUCK
+buck-out/
+\.buckd/
+android/app/libs
+android/keystores/debug.keystore
+android/app/keystore.jks
+android/app/src/main/assets/crashlytics-build.properties
+android/app/src/main/res/values/com_crashlytics_export_strings.xml
+
+# Tieit
+appconfig.js
+Preview.html
+dump.rdb
+yarn.lock
+
+*.log
+*.apk
+
+
+# Haul
+#
+haul-debug.log
+.happypack
+/ios/Tieit.app.dSYM.zip
+/ios/4JXVL74DL7.cer
+
+/fastlane/report.xml
+/Tieit.app.dSYM.zip
+/.vscode/

@@ -1,0 +1,40 @@
+export const testData =
+  [
+    {
+      id: 100195,
+      activity_type_id: 1,
+      note: '<div>test act 1</div>',
+      duration: '00:15',
+      company_id: 33,
+      status: 0,
+      completed_date: '',
+      created_date: '2017-09-10 11:36:10',
+      update_date: null,
+      scheduled_date: '2017-09-11 11:35:00',
+      owner_id: 161,
+      activity_title: 'Call with ',
+      assigned_to: 161,
+      is_deleted: 0,
+      notification: 0,
+      google_cal_event_id: '',
+      stage_process_id: null,
+      stage_id: 0,
+      is_parent_process: 0,
+      comments: null,
+      reschedule_count: null,
+      reschedule_id: null,
+      is_manual: 1,
+      is_from_g_cal: 0,
+      last_sync_date: null,
+      act_attachments: '',
+      voicemail_sent: 0,
+      sent_meeting_mail: 0,
+      end_at: '0000-00-00 00:00:00',
+      m_duration: '[]',
+      task_priority: 0,
+      task_status: 0,
+      task_percent: 0,
+      scheduling_check: 0
+    }
+  ]
+

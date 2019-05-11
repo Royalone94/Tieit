@@ -1,0 +1,16 @@
+// export const PRIMARY_COLOR = '#00A5D1';
+export const PRIMARY_COLOR = '#0c87d4';
+export const WHITE = '#FFFFFF';
+export const BLACK = '#000000';
+export const GRAY = '#ABA9AB';
+export const LIGHT_GRAY = '#ECE9E9';
+export const LIGHTER_GRAY = '#F4F4F4';
+export const DARK_GRAY = '#696669';
+export const LIGHT_GREEN = '#a9bfeb';
+export const GREEN = '#34b27d';
+export const DARK_GREEN = '#00a5d1';
+export const RED = '#ff5509';
+export const DARK_BLUE = '#004378';
+export const CRYAN = '#65519e';
+export const AVATAR_COLOR = '#96B754';
+export const LOGIN_BACK_GRADIENT = ['#00a5d1', '#67bfd6', '#6cd3ee'];
